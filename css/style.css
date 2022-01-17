@@ -79,6 +79,7 @@ section{
     color:var(--yellow);
 }
 
+
 header{
     position: fixed;
     top:0; left:0;
@@ -241,6 +242,12 @@ header .navbar ul li a:hover{
     padding-left: 4rem;
     border-left: .2rem solid #fff;
     position: relative;
+}
+
+.education .github{ 
+    font-size: 2rem;
+    color:#eee;
+    text-align: center;
 }
 
 .education .box-container .box span{
