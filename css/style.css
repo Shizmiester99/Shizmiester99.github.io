@@ -370,9 +370,6 @@ header .navbar ul li a:hover{
     color:var(--yellow);
 }
 
-.contact .heading .row .content .title .info .fas_fa-envelope{
-  text-transform: lowercase;
-}
 
 .top{
     position: fixed;
