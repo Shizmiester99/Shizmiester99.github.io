@@ -335,7 +335,7 @@ header .navbar ul li a:hover{
     margin:1rem 0;
     background:#3333;
     color:#fff;
-    text-transform: none;
+    text-transform: capitalize;
     font-size: 1.7rem;
     width:100%;
 }
